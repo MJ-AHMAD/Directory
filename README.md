@@ -52,9 +52,46 @@ With a Vision for Tomorrow's Leaders
 </details>
 
 
-# Online Travel Agency (OTA)
+- **Frontend , Backend & CI/CD - Azure,**
+- **Frontend & Backend- Azure & CI/CD - GitHub Actions**
+- **Frontend & Backend- Vercel**
+- **Frontend - Vercel, Backend- Azure, CI/CD - GitHub Actions**
 ---
-## Overview
+- **React.js** 
+- **Azure Static Web Apps** 
+- **Node.js w RESTful APIs** 
+- **Azure Web App** 
+- **Azure DevOps**
+------
+### Overview
+- **Frontend**: Built with React.js, deployed on Azure Static Web Apps.
+- **Backend**: Node.js server with RESTful APIs, deployed on Azure Web App.
+- **CI/CD**: Continuous Integration and Deployment are managed with Azure DevOps.
+---
+[Overview](#google-cloud-platform)
+
+---
+---
+- **React.js, hosted on Azure Static Web Apps** 
+- **Node.js server, hosted on Azure Web App** 
+- **GitHub Actions**
+------
+### Overview
+- **Frontend**: Built with React.js, deployed on Azure Static Web Apps.
+- **Backend**: Node.js server with RESTful APIs, deployed on Azure Web App.
+- **CI/CD**: Continuous Integration and Deployment are managed with Azure DevOps.
+
+[Overview](#google-cloud-platform)
+
+---
+---
+- **React.js** 
+- **Azure Static Web Apps** 
+- **Node.js w RESTful APIs** 
+- **Azure Web App** 
+- **Azure DevOps**
+------
+### Overview
 - **Frontend**: Built with React.js, deployed on Azure Static Web Apps.
 - **Backend**: Node.js server with RESTful APIs, deployed on Azure Web App.
 - **CI/CD**: Continuous Integration and Deployment are managed with Azure DevOps.
@@ -63,6 +100,23 @@ With a Vision for Tomorrow's Leaders
 
 ---
 
+<a href="https://copilot.microsoft.com/shares/9NBHHfjjXZmmkNNMTA9kR">Dir..</a>
+
+---
+- **React.js** 
+- **Vercel** 
+- **Node.js** 
+- **Azure Web App** 
+- **GitHub Actions**
+
+
+### Overview
+- **Frontend**: Built with React.js and deployed on Vercel.
+- **Backend**: Developed using Node.js and hosted on Azure Web App.
+- **CI/CD**: Automated builds and deployments through GitHub Actions.
+ 
+ [Overview](#google-cloud-platform)
+---
 
 ## ব্যাকএন্ড ডিপ্লয়মেন্টের জন্য বেশ কিছু প্রসিদ্ধ এবং নির্ভরযোগ্য প্ল্যাটফর্ম
 
