@@ -53,6 +53,16 @@ With a Vision for Tomorrow's Leaders
 
 
 # Online Travel Agency (OTA)
+---
+## Overview
+- **Frontend**: Built with React.js, deployed on Azure Static Web Apps.
+- **Backend**: Node.js server with RESTful APIs, deployed on Azure Web App.
+- **CI/CD**: Continuous Integration and Deployment are managed with Azure DevOps.
+
+[Overview](#google-cloud-platform)
+
+---
+
 
 ## ব্যাকএন্ড ডিপ্লয়মেন্টের জন্য বেশ কিছু প্রসিদ্ধ এবং নির্ভরযোগ্য প্ল্যাটফর্ম
 
