@@ -190,7 +190,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For support or inquiries, please email: **your-email@example.com**
-```
 
 ---
 
@@ -219,7 +218,7 @@ README.md ফাইলটি সবসময় আপডেট রাখা গ
 
 ### **README.md উদাহরণ**
 
-```markdown
+markdown
 # My OTA Project
 
 ## Overview
@@ -425,7 +424,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any queries or support, please reach out to: **your-email@example.com**
-```
 
 ---
 
@@ -454,7 +452,7 @@ README.md সবসময় আপডেট রাখা গুরুত্ব�
 
 ### **README.md উদাহরণ**
 
-```markdown
+markdown
 # My OTA Project
 
 ## Overview
@@ -606,7 +604,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For queries or support, reach out to: 
-```
+
 ### **README.md মূল বিষয়সমূহ:**
 1. **Overview:** প্রজেক্টের সংক্ষিপ্ত বিবরণ।
 2. **Features:** ফ্রন্টএন্ড এবং ব্যাকএন্ড কী কী ফিচার সরবরাহ করছে।
@@ -636,7 +634,7 @@ For queries or support, reach out to:
 
 ### **README.md উদাহরণ**
 
-```markdown
+markdown
 # My OTA Project
 
 ## Overview
@@ -854,7 +852,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For support, reach out to: **your-email@example.com**
-```
+
 
 ---
 
