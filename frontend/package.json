@@ -1,12 +1,14 @@
 {
-  "name": "my-v0-project",
+  "name": "my-ota",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
@@ -65,6 +67,8 @@
     "@types/react-dom": "^19",
     "postcss": "^8",
     "tailwindcss": "^3.4.17",
-    "typescript": "^5"
-  }
+    "typescript": "^5",
+    "gh-pages": "^5.0.0"
+  },
+  "homepage": "https://mj-ahmad.github.io/Directory/"
 }
