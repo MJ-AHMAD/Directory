@@ -1,12 +1,53 @@
-<!-- PROJECT-->
-
-<p align="center">
-With a Vision for Tomorrow's Leaders
-</p>
 <div align="center">
-      <h3 align="center"><b>Directory</b></h3>
+      <h3 align="center"><b>With a Vision for Tomorrow's Leaders</b></h3>
 </div>
 
+---
+
+- **Frontend , Backend & CI/CD - Azure,**
+  - [Directory](#frontendbackend&ci/cd-azure)
+
+- **Frontend & Backend- Azure & CI/CD - GitHub Actions**
+  - [Directory](#google-cloud-platform)
+
+- **Frontend & Backend- Vercel**
+  - [Directory](#google-cloud-platform)
+
+- **Frontend - Vercel, Backend- Azure, CI/CD - GitHub Actions**
+  - [Directory](#google-cloud-platform)
+
+---
+
+# FrontendBackend&CI/CD-Azure
+
+
+- **React.js** 
+- **Azure Static Web Apps** 
+- **Node.js w RESTful APIs** 
+- **Azure Web App** 
+- **Azure DevOps**
+------
+### Overview
+- **Frontend**: Built with React.js, deployed on Azure Static Web Apps.
+- **Backend**: Node.js server with RESTful APIs, deployed on Azure Web App.
+- **CI/CD**: Continuous Integration and Deployment are managed with Azure DevOps.
+---
+[Overview](#google-cloud-platform)
+
+---
+---
+- **React.js, hosted on Azure Static Web Apps** 
+- **Node.js server, hosted on Azure Web App** 
+- **GitHub Actions**
+------
+### Overview
+- **Frontend**: Built with React.js, deployed on Azure Static Web Apps.
+- **Backend**: Node.js server with RESTful APIs, deployed on Azure Web App.
+- **CI/CD**: Continuous Integration and Deployment are managed with Azure DevOps.
+
+[Overview](#google-cloud-platform)
+
+---
 <details>
   <summary>MY-TIME</summary>
   <ol>
@@ -50,40 +91,6 @@ With a Vision for Tomorrow's Leaders
         </details>
   </ol>
 </details>
-
-
-- **Frontend , Backend & CI/CD - Azure,**
-- **Frontend & Backend- Azure & CI/CD - GitHub Actions**
-- **Frontend & Backend- Vercel**
-- **Frontend - Vercel, Backend- Azure, CI/CD - GitHub Actions**
----
-- **React.js** 
-- **Azure Static Web Apps** 
-- **Node.js w RESTful APIs** 
-- **Azure Web App** 
-- **Azure DevOps**
-------
-### Overview
-- **Frontend**: Built with React.js, deployed on Azure Static Web Apps.
-- **Backend**: Node.js server with RESTful APIs, deployed on Azure Web App.
-- **CI/CD**: Continuous Integration and Deployment are managed with Azure DevOps.
----
-[Overview](#google-cloud-platform)
-
----
----
-- **React.js, hosted on Azure Static Web Apps** 
-- **Node.js server, hosted on Azure Web App** 
-- **GitHub Actions**
-------
-### Overview
-- **Frontend**: Built with React.js, deployed on Azure Static Web Apps.
-- **Backend**: Node.js server with RESTful APIs, deployed on Azure Web App.
-- **CI/CD**: Continuous Integration and Deployment are managed with Azure DevOps.
-
-[Overview](#google-cloud-platform)
-
----
 ---
 - **React.js** 
 - **Azure Static Web Apps** 
@@ -114,8 +121,8 @@ With a Vision for Tomorrow's Leaders
 - **Frontend**: Built with React.js and deployed on Vercel.
 - **Backend**: Developed using Node.js and hosted on Azure Web App.
 - **CI/CD**: Automated builds and deployments through GitHub Actions.
- 
- [Overview](#google-cloud-platform)
+
+ ##### [Overview](#google-cloud-platform)
 ---
 
 ## ব্যাকএন্ড ডিপ্লয়মেন্টের জন্য বেশ কিছু প্রসিদ্ধ এবং নির্ভরযোগ্য প্ল্যাটফর্ম
