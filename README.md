@@ -5,7 +5,7 @@
 ---
 
 - **Frontend , Backend & CI/CD - Azure,**
-  - [Directory](#frontendbackend&ci/cd-azure)
+  - [Directory](#azure)
 
 - **Frontend & Backend- Azure & CI/CD - GitHub Actions**
   - [Directory](#google-cloud-platform)
@@ -17,6 +17,8 @@
   - [Directory](#google-cloud-platform)
 
 ---
+
+# Azure
 
 # FrontendBackend&CI/CD-Azure
 
